@@ -1,0 +1,177 @@
+# Copyright (C) 2023 WPClever
+# This file is distributed under the same license as the WPC Product Tabs for WooCommerce (Premium) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Product Tabs for WooCommerce (Premium) 3.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-product-tabs-premium\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-09T15:24:34+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-product-tabs\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Product Tabs for WooCommerce (Premium)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Product tabs manager for WooCommerce."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-product-tabs.php:109
+#: wpc-product-tabs.php:169
+msgid "Global Tabs"
+msgstr ""
+
+#: wpc-product-tabs.php:126
+msgid "Community support"
+msgstr ""
+
+#: wpc-product-tabs.php:141
+#: wpc-product-tabs.php:151
+msgid "WPC Product Tabs"
+msgstr ""
+
+#: wpc-product-tabs.php:141
+#: wpc-product-tabs.php:539
+msgid "Product Tabs"
+msgstr ""
+
+#: wpc-product-tabs.php:154
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-product-tabs.php:156
+msgid "Reviews"
+msgstr ""
+
+#: wpc-product-tabs.php:157
+msgid "Changelog"
+msgstr ""
+
+#: wpc-product-tabs.php:158
+msgid "Discussion"
+msgstr ""
+
+#: wpc-product-tabs.php:163
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-product-tabs.php:174
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-product-tabs.php:178
+msgid "Support"
+msgstr ""
+
+#: wpc-product-tabs.php:181
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-product-tabs.php:194
+#: wpc-product-tabs.php:338
+msgid "Description"
+msgstr ""
+
+#: wpc-product-tabs.php:198
+#: wpc-product-tabs.php:339
+msgid "Additional Information"
+msgstr ""
+
+#: wpc-product-tabs.php:202
+#: wpc-product-tabs.php:340
+msgid "Reviews (%d)"
+msgstr ""
+
+#: wpc-product-tabs.php:249
+msgid "Tab title"
+msgstr ""
+
+#: wpc-product-tabs.php:297
+msgid "move"
+msgstr ""
+
+#: wpc-product-tabs.php:299
+msgid "remove"
+msgstr ""
+
+#: wpc-product-tabs.php:304
+msgid "Apply for"
+msgstr ""
+
+#: wpc-product-tabs.php:309
+msgid "All products"
+msgstr ""
+
+#: wpc-product-tabs.php:334
+msgid "Type"
+msgstr ""
+
+#: wpc-product-tabs.php:343
+msgid "WPC Product Bundles"
+msgstr ""
+
+#: wpc-product-tabs.php:347
+msgid "WPC Grouped Product"
+msgstr ""
+
+#: wpc-product-tabs.php:351
+msgid "WPC Product FAQs"
+msgstr ""
+
+#: wpc-product-tabs.php:355
+msgid "WPC Brands"
+msgstr ""
+
+#: wpc-product-tabs.php:358
+msgid "Custom"
+msgstr ""
+
+#: wpc-product-tabs.php:364
+msgid "Title"
+msgstr ""
+
+#: wpc-product-tabs.php:373
+msgid "Content"
+msgstr ""
+
+#: wpc-product-tabs.php:395
+msgid "+ Add new tab"
+msgstr ""
+
+#: wpc-product-tabs.php:555
+msgid "Manager Global Tabs"
+msgstr ""
+
+#: wpc-product-tabs.php:558
+msgid "Global"
+msgstr ""
+
+#: wpc-product-tabs.php:561
+msgid "Overwrite"
+msgstr ""
+
+#: wpc-product-tabs.php:564
+msgid "Prepend"
+msgstr ""
+
+#: wpc-product-tabs.php:567
+msgid "Append"
+msgstr ""

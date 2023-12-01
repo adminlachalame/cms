@@ -1,0 +1,4 @@
+2023-11-26T08:37:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\chuyen-de-CMS\wp-includes\PHPMailer\SMTP.php on line 1238
+
+2023-11-26T08:40:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\chuyen-de-CMS\wp-includes\PHPMailer\SMTP.php on line 1238
+
